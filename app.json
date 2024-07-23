@@ -21,7 +21,7 @@
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~93N3P688"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
